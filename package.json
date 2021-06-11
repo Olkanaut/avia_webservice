@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "avia web service",
+  "main": "webservice.js",
+  "scripts": {
+    "test": "node webservice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olkanaut/avia_webservice.git"
+  },
+  "author": "olkanaut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olkanaut/avia_webservice/issues"
+  },
+  "homepage": "https://github.com/Olkanaut/avia_webservice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
